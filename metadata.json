@@ -1,0 +1,6 @@
+{
+  "name": "MAAS Remover - OJS Inactive User Purge Plugin",
+  "description": "Comprehensive OJS (Open Journal Systems) generic plugin generator, code inspector, safety engine, and live simulation suite for permanent bulk deletion of inactive and orphaned spam accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
